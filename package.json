@@ -1,0 +1,28 @@
+{
+  "name": "saved-book-search-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon -r dotenv/config server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishnarain/saved-book-search-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishnarain/saved-book-search-api/issues"
+  },
+  "homepage": "https://github.com/harishnarain/saved-book-search-api#readme"
+}
