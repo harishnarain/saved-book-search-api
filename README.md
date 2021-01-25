@@ -42,9 +42,9 @@ This is the accompanying CRUD API that accompanies the Yet Another Book Search p
 
 REST API interface with the following:
 
-ADD route: [POST] /api/books
-DELETE route: [DELETE] /api/books/<id of document from MongoDB>
-GET route: [GET] /api/books or /api/books/<id of document from MongoDB>
+- ADD route: [POST] /api/books
+- DELETE route: [DELETE] /api/books/<id of document from MongoDB>
+- GET route: [GET] /api/books or /api/books/<id of document from MongoDB>
 
 A demo of the application is available at: https://cryptic-springs-62387.herokuapp.com/
 
